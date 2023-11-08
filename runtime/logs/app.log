@@ -1,0 +1,967 @@
+2023-11-07 11:51:26 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "Entry". in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php:561
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2023-11-07 11:51:26 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'Entry'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '54128'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=Entry'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=Entry'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699357886.3849
+    'REQUEST_TIME' => 1699357886
+]
+2023-11-07 12:21:26 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "productFindx". in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php:561
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2023-11-07 12:21:26 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'productFindx'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '40550'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=productFindx'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=productFindx'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699359686.7468
+    'REQUEST_TIME' => 1699359686
+]
+2023-11-07 12:23:24 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\db\Exception] PDOException: SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Command.php:1320
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Command.php(1320): PDOStatement->execute()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Command.php(1120): yii\db\Command->internalExecute()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Schema.php(431): yii\db\Command->execute()
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/ActiveRecord.php(604): yii\db\Schema->insert()
+#4 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/ActiveRecord.php(570): yii\db\ActiveRecord->insertInternal()
+#5 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/BaseActiveRecord.php(687): yii\db\ActiveRecord->insert()
+#6 /home/mangi.prajapat/Documents/Project/YII/basic/controllers/ProductController.php(73): yii\db\BaseActiveRecord->save()
+#7 [internal function]: app\controllers\ProductController->actionCreate()
+#8 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#9 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#10 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#11 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#12 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#13 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#14 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+The SQL being executed was: INSERT INTO `product` (`product_id`) VALUES (NULL) in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Schema.php:676
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Command.php(1325): yii\db\Schema->convertException()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Command.php(1120): yii\db\Command->internalExecute()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Schema.php(431): yii\db\Command->execute()
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/ActiveRecord.php(604): yii\db\Schema->insert()
+#4 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/ActiveRecord.php(570): yii\db\ActiveRecord->insertInternal()
+#5 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/BaseActiveRecord.php(687): yii\db\ActiveRecord->insert()
+#6 /home/mangi.prajapat/Documents/Project/YII/basic/controllers/ProductController.php(73): yii\db\BaseActiveRecord->save()
+#7 [internal function]: app\controllers\ProductController->actionCreate()
+#8 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#9 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#10 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#11 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#12 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#13 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#14 {main}
+Additional Information:
+Array
+(
+    [0] => HY000
+    [1] => 1364
+    [2] => Field 'name' doesn't have a default value
+)
+
+2023-11-07 12:23:24 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'product/create'
+]
+
+$_POST = [
+    '_csrf' => 'Fk23qbm5kti5spWKOWNVjHfIwNZwnPwOj5bmxIVFKcdff9T-1dXT7eGA__JmVg_qQbuioxj1hUX4p9GS2gtarw=='
+    'Product' => [
+        'product_id' => '2'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '46668'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=product%2Fcreate'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=product%2Fcreate'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '124'
+    'HTTP_CONTENT_LENGTH' => '124'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=product%2Fcreate'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699359804.4796
+    'REQUEST_TIME' => 1699359804
+]
+2023-11-07 12:42:31 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\db\Exception] PDOException: SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Command.php:1320
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Command.php(1320): PDOStatement->execute()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Command.php(1120): yii\db\Command->internalExecute()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Schema.php(431): yii\db\Command->execute()
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/ActiveRecord.php(604): yii\db\Schema->insert()
+#4 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/ActiveRecord.php(570): yii\db\ActiveRecord->insertInternal()
+#5 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/BaseActiveRecord.php(687): yii\db\ActiveRecord->insert()
+#6 /home/mangi.prajapat/Documents/Project/YII/basic/controllers/ProductController.php(73): yii\db\BaseActiveRecord->save()
+#7 [internal function]: app\controllers\ProductController->actionCreate()
+#8 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#9 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#10 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#11 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#12 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#13 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#14 {main}
+
+Next yii\db\Exception: SQLSTATE[HY000]: General error: 1364 Field 'name' doesn't have a default value
+The SQL being executed was: INSERT INTO `product` (`product_id`) VALUES (NULL) in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Schema.php:676
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Command.php(1325): yii\db\Schema->convertException()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Command.php(1120): yii\db\Command->internalExecute()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/Schema.php(431): yii\db\Command->execute()
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/ActiveRecord.php(604): yii\db\Schema->insert()
+#4 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/ActiveRecord.php(570): yii\db\ActiveRecord->insertInternal()
+#5 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/db/BaseActiveRecord.php(687): yii\db\ActiveRecord->insert()
+#6 /home/mangi.prajapat/Documents/Project/YII/basic/controllers/ProductController.php(73): yii\db\BaseActiveRecord->save()
+#7 [internal function]: app\controllers\ProductController->actionCreate()
+#8 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#9 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#10 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#11 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#12 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#13 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#14 {main}
+Additional Information:
+Array
+(
+    [0] => HY000
+    [1] => 1364
+    [2] => Field 'name' doesn't have a default value
+)
+
+2023-11-07 12:42:31 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'product/create'
+]
+
+$_POST = [
+    '_csrf' => 'XZvmId6iDSkFF52-2zzD4t4ZaxPB6VqeTOw7YlECsYYUqYV2ss5MHF0l98aECZmE6GoJZqmAI9U73Qw0DkzC7g=='
+    'Product' => [
+        'product_id' => '2'
+    ]
+]
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '56766'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=product%2Fcreate'
+    'REQUEST_METHOD' => 'POST'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=product%2Fcreate'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'CONTENT_LENGTH' => '124'
+    'HTTP_CONTENT_LENGTH' => '124'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_ORIGIN' => 'http://localhost:8080'
+    'CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_CONTENT_TYPE' => 'application/x-www-form-urlencoded'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=product%2Fcreate'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699360951.1144
+    'REQUEST_TIME' => 1699360951
+]
+2023-11-07 12:55:00 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][Error] Error: Call to a member function isAttributeRequired() on null in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/widgets/ActiveField.php:932
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/views/product/_form.php(15): yii\widgets\ActiveField->textInput()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(347): require('/home/mangi.pra...')
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#4 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#5 /home/mangi.prajapat/Documents/Project/YII/basic/views/product/create.php(18): yii\base\View->render()
+#6 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(347): require('/home/mangi.pra...')
+#7 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#8 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#9 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#10 /home/mangi.prajapat/Documents/Project/YII/basic/controllers/ProductController.php(81): yii\base\Controller->render()
+#11 [internal function]: app\controllers\ProductController->actionCreate()
+#12 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#13 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#14 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#15 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#16 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#17 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#18 {main}
+2023-11-07 12:55:00 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'product/create'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '50464'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=product%2Fcreate'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=product%2Fcreate'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=product%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699361700.6031
+    'REQUEST_TIME' => 1699361700
+]
+2023-11-07 12:58:58 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined variable: form in /home/mangi.prajapat/Documents/Project/YII/basic/views/product/create.php:19
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/views/product/create.php(19): yii\base\ErrorHandler->handleError()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(347): require('/home/mangi.pra...')
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#5 /home/mangi.prajapat/Documents/Project/YII/basic/controllers/ProductController.php(81): yii\base\Controller->render()
+#6 [internal function]: app\controllers\ProductController->actionCreate()
+#7 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#9 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#10 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#11 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#12 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2023-11-07 12:58:58 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'product/create'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '34224'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=product%2Fcreate'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=product%2Fcreate'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=product%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699361938.8171
+    'REQUEST_TIME' => 1699361938
+]
+2023-11-07 12:59:39 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined variable: form in /home/mangi.prajapat/Documents/Project/YII/basic/views/product/create.php:19
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/views/product/create.php(19): yii\base\ErrorHandler->handleError()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(347): require('/home/mangi.pra...')
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#5 /home/mangi.prajapat/Documents/Project/YII/basic/controllers/ProductController.php(81): yii\base\Controller->render()
+#6 [internal function]: app\controllers\ProductController->actionCreate()
+#7 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#9 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#10 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#11 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#12 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2023-11-07 12:59:39 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'product/create'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '58418'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=product%2Fcreate'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=product%2Fcreate'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=product%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699361979.2266
+    'REQUEST_TIME' => 1699361979
+]
+2023-11-07 13:00:34 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\base\ErrorException:8] yii\base\ErrorException: Undefined variable: form in /home/mangi.prajapat/Documents/Project/YII/basic/views/product/create.php:19
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/views/product/create.php(19): yii\base\ErrorHandler->handleError()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(347): require('/home/mangi.pra...')
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#4 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#5 /home/mangi.prajapat/Documents/Project/YII/basic/controllers/ProductController.php(81): yii\base\Controller->render()
+#6 [internal function]: app\controllers\ProductController->actionCreate()
+#7 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#8 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#9 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#10 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#11 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#12 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#13 {main}
+2023-11-07 13:00:34 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'product/create'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '57000'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=product%2Fcreate'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=product%2Fcreate'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=product%2Findex'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699362034.8394
+    'REQUEST_TIME' => 1699362034
+]
+2023-11-07 13:03:52 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "pgii". in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php:561
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2023-11-07 13:03:52 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'pgii'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '43980'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=pgii'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=pgii'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699362232.7376
+    'REQUEST_TIME' => 1699362232
+]
+2023-11-07 13:08:53 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\base\ViewNotFoundException] yii\base\ViewNotFoundException: The view file does not exist: /home/mangi.prajapat/Documents/Project/YII/basic/views/country/index.php in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php:233
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/controllers/CountryController.php(46): yii\base\Controller->render()
+#3 [internal function]: app\controllers\CountryController->actionIndex()
+#4 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#5 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#6 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#7 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#8 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#9 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#10 {main}
+2023-11-07 13:08:53 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'country/index'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '41658'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Findex'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Findex'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'none'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699362533.6985
+    'REQUEST_TIME' => 1699362533
+]
+2023-11-07 13:19:41 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/country in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php:149
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2023-11-07 13:19:41 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'site/country'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '46600'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=site%2Fcountry'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=site%2Fcountry'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699363181.0784
+    'REQUEST_TIME' => 1699363181
+]
+2023-11-07 13:20:00 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request: site/country in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php:149
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#2 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#4 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php:115
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#2 {main}
+2023-11-07 13:20:00 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'site/country'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '50948'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=site%2Fcountry'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=site%2Fcountry'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699363200.5718
+    'REQUEST_TIME' => 1699363200
+]
+2023-11-07 13:23:59 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][error][yii\base\UnknownPropertyException] yii\base\UnknownPropertyException: Setting unknown property: yii\validators\RequiredValidator::0 in /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Component.php:209
+Stack trace:
+#0 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/BaseYii.php(558): yii\base\Component->__set()
+#1 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/BaseObject.php(107): yii\BaseYii::configure()
+#2 [internal function]: yii\base\BaseObject->__construct()
+#3 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/di/Container.php(419): ReflectionClass->newInstanceArgs()
+#4 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/di/Container.php(170): yii\di\Container->build()
+#5 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/BaseYii.php(365): yii\di\Container->get()
+#6 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/validators/Validator.php(230): yii\BaseYii::createObject()
+#7 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Model.php(469): yii\validators\Validator::createValidator()
+#8 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Model.php(421): yii\base\Model->createValidators()
+#9 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Model.php(188): yii\base\Model->getValidators()
+#10 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Model.php(821): yii\base\Model->scenarios()
+#11 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Model.php(435): yii\base\Model->activeAttributes()
+#12 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Model.php(495): yii\base\Model->getActiveValidators()
+#13 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/widgets/ActiveField.php(932): yii\base\Model->isAttributeRequired()
+#14 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/widgets/ActiveField.php(405): yii\widgets\ActiveField->addAriaAttributes()
+#15 /home/mangi.prajapat/Documents/Project/YII/basic/views/country/_form.php(15): yii\widgets\ActiveField->textInput()
+#16 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(347): require('/home/mangi.pra...')
+#17 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#18 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#19 /home/mangi.prajapat/Documents/Project/YII/basic/views/country/create.php(17): yii\base\View->render()
+#20 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(347): require('/home/mangi.pra...')
+#21 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(257): yii\base\View->renderPhpFile()
+#22 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/View.php(156): yii\base\View->renderFile()
+#23 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(407): yii\base\View->render()
+#24 /home/mangi.prajapat/Documents/Project/YII/basic/controllers/CountryController.php(81): yii\base\Controller->render()
+#25 [internal function]: app\controllers\CountryController->actionCreate()
+#26 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/InlineAction.php(57): call_user_func_array()
+#27 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Controller.php(178): yii\base\InlineAction->runWithParams()
+#28 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Module.php(552): yii\base\Controller->runAction()
+#29 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/web/Application.php(103): yii\base\Module->runAction()
+#30 /home/mangi.prajapat/Documents/Project/YII/basic/vendor/yiisoft/yii2/base/Application.php(384): yii\web\Application->handleRequest()
+#31 /home/mangi.prajapat/Documents/Project/YII/basic/web/index.php(12): yii\base\Application->run()
+#32 {main}
+2023-11-07 13:23:59 [127.0.0.1][-][vim3v7vu6pflsckco0pn2f57s1][info][application] $_GET = [
+    'r' => 'country/create'
+]
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    'PHPSESSID' => 'vim3v7vu6pflsckco0pn2f57s1'
+    '_csrf' => '467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh\";}'
+]
+
+$_SESSION = [
+    '__flash' => []
+    '__captcha/site/captcha' => 'pugeox'
+    '__captcha/site/captchacount' => 1
+]
+
+$_SERVER = [
+    'DOCUMENT_ROOT' => '/home/mangi.prajapat/Documents/Project/YII/basic/web'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'REMOTE_PORT' => '44050'
+    'SERVER_SOFTWARE' => 'PHP 7.4.3-4ubuntu2.19 Development Server'
+    'SERVER_PROTOCOL' => 'HTTP/1.1'
+    'SERVER_NAME' => 'localhost'
+    'SERVER_PORT' => '8080'
+    'REQUEST_URI' => '/index.php?r=country%2Fcreate'
+    'REQUEST_METHOD' => 'GET'
+    'SCRIPT_NAME' => '/index.php'
+    'SCRIPT_FILENAME' => '/home/mangi.prajapat/Documents/Project/YII/basic/web/index.php'
+    'PHP_SELF' => '/index.php'
+    'QUERY_STRING' => 'r=country%2Fcreate'
+    'HTTP_HOST' => 'localhost:8080'
+    'HTTP_CONNECTION' => 'keep-alive'
+    'HTTP_CACHE_CONTROL' => 'max-age=0'
+    'HTTP_SEC_CH_UA' => '\"Google Chrome\";v=\"119\", \"Chromium\";v=\"119\", \"Not?A_Brand\";v=\"24\"'
+    'HTTP_SEC_CH_UA_MOBILE' => '?0'
+    'HTTP_SEC_CH_UA_PLATFORM' => '\"Linux\"'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7'
+    'HTTP_SEC_FETCH_SITE' => 'same-origin'
+    'HTTP_SEC_FETCH_MODE' => 'navigate'
+    'HTTP_SEC_FETCH_USER' => '?1'
+    'HTTP_SEC_FETCH_DEST' => 'document'
+    'HTTP_REFERER' => 'http://localhost:8080/index.php?r=country'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate, br'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-GB,en-US;q=0.9,en;q=0.8'
+    'HTTP_COOKIE' => 'PHPSESSID=vim3v7vu6pflsckco0pn2f57s1; _csrf=467d2b13053d9049d5bd99e3e205d4fed993e100efa547b2460175c47bab63d7a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22I2cWllA5X2jx_5Zf6sbuhiyKw17V_Nsh%22%3B%7D'
+    'REQUEST_TIME_FLOAT' => 1699363439.4147
+    'REQUEST_TIME' => 1699363439
+]
